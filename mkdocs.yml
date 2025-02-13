@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: BG3 Scripting Wiki
+nav:
+  - Home: index.md
+  - Developer Guides:
+      - Getting Started: guide/start.md
+      - Story Script Programming : 404.md
+      - Equipment and Items : 404.md
+      - Dialog and Events : 404.md
+      - NPCs and AI : 404.md
+      - Maps and Level Design : 404.md
+      - Models and Assets : 404.md
+      - Creating New Races : guide/start.md
+      - Creating New Classes : guide/start.md
+
+  - Developer Reference:
+    - Events:
+      - Getting Started: guide/start.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.sections
